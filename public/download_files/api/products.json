@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Product 1",
+        "categoryName": "Category 1",
+        "price": 4.34
+    },
+    {
+        "name": "Product 2",
+        "categoryName": "Category 1",
+        "price": 4.3333333333333
+    },
+    {
+        "name": "Product 3",
+        "categoryName": "Category 1",
+        "price": 5.3333333333333
+    },
+    {
+        "name": "Product 4",
+        "categoryName": "Category 2",
+        "price": 4.3333333333333
+    },
+    {
+        "name": "Product 5",
+        "categoryName": "Category 2",
+        "price": 6.3333333333333
+    },
+    {
+        "name": "Product 6",
+        "categoryName": "Category 3",
+        "price": 6.3333333333333
+    },
+    {
+        "name": "Product 7",
+        "categoryName": "Category 3",
+        "price": 8.34444
+    },
+    {
+        "name": "Product 8",
+        "categoryName": "Category 3",
+        "price": 200
+    }
+]
